@@ -1,115 +1,106 @@
 h1 {
   position: relative;
-  left: 100px;
-  top: 80px;
+  left: 6.25rem;
+  top: 5rem;
   color: hsl(300, 43%, 22%);
   font-family: 'Spartan', sans-serif;
   font-weight: 700;
-  font-size: 40px;
-  margin-bottom: 2px;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
 
   width: 40%;
 }
 
 body {
-  display: block;
-  margin: auto;
-  margin-left: 0;
-  background: #fff;
-  width: 79%;
-  height:1000%;
-  padding: 10px;
-  clear: both;
-  overflow: hidden;
-  width: 1440px;
+  width: 90rem;
 }
 
 .p-1 {
   position: relative;
-  left: 100px;
-  top: 80px;
+  left: 6.25rem;
+  top: 5rem;
   font-family: 'Spartan', sans-serif;
   font-weight: 500;
 line-height: 2;
 color: hsl(303, 10%, 53%);
-font-size: 14px;
+font-size: 0.875rem;
 
   width: 40%;
 }
 
 .p-2 {
   position: relative;
-  top: 20px;
-  left: 20px;
+  top: 1.25rem;
+  left: 1.25rem;
   font-family: 'Spartan', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
   color: hsl(300, 43%, 22%);
   font-weight: 700;
 }
 
 .p-3 {
   position: relative;
-  top: 20px;
-  left: 20px;
+  top: 1.25rem;
+  left: 1.25rem;
   font-family: 'Spartan', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
   color: hsl(300, 43%, 22%);
   font-weight: 700;
 }
 
 .p-4 {
   position: relative;
-  top: 20px;
-  left: 20px;
+  top: 1.25rem;
+  left: 1.25rem;
   font-family: 'Spartan', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
   color: hsl(300, 43%, 22%);
   font-weight: 700;
 }
 
 .p-5 {
   position: relative;
-  top: 40px;
-  left: 40px;
+  top: 2.5rem;
+  left: 2.5rem;
   color: white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
 }
 
 .p-6 {
   position: relative;
-  top: 40px;
-  left: 30px;
+  top: 2.5rem;
+  left: 1.875rem;
   color:  white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
   line-height: 2;
 }
 
 .p-7 {
   position: relative;
-  right: 0px;
+  right: 0;
   color:  white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
   line-height: 2;
 }
 
 .p-8 {
   position: relative;
-  top: 40px;
-  left: 40px;
+  top: 2.5rem;
+  left: 2.5rem;
   color: white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
 }
 
 .p-9 {
   position: relative;
-  top: 50px;
-  left: 40px;
+  top: 3.125rem;
+  left: 2.5rem;
   color:  white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
   line-height: 2;
 }
@@ -119,23 +110,23 @@ font-size: 14px;
   top: 40px;
   left: 40px;
   color: white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
 }
 
 .p-11 {
   position: relative;
-  top: 50px;
-  left: 40px;
+  top: 3.125rem;
+  left: 2.5rem;
   color:  white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
   line-height: 2;
 }
 
 .p-12 {
   color: hsl(300, 43%, 22%);
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-family: 'Spartan', sans-serif;
   position: absolute;
   bottom: 0px;
@@ -146,26 +137,26 @@ font-size: 14px;
   position: relative;
   color: hsl(333, 80%, 67%);
   font-family: 'Spartan', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
 }
 
 .v-2 {
   position: relative;
   color: hsl(333, 80%, 67%);
   font-family: 'Spartan', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
 }
 
 .v-3 {
   position: relative;
   color: hsl(333, 80%, 67%);
   font-family: 'Spartan', sans-serif;
-  font-size: 15px;
+  font-size: 0.9375rem;
 }
 
 .top-background {
   position: absolute;
-  top: 0px;
+  top: 0;
 }
 
 .bottom-background {
@@ -176,134 +167,105 @@ font-size: 14px;
 
 .div-1 {
   background-color: hsl(300, 24%, 96%);
-  width: 380px;
-  height: 60px;
-  border-radius: 8px;
+  width: 23.75rem;
+  height: 3.75rem;
+  border-radius: 0.5rem;
   position: relative;
-  left: 770px;
-  bottom: 180px;
+  left: 48.125rem;
+  bottom: 11.25rem;
 }
 
 .div-2 {
   background-color: hsl(300, 24%, 96%);
-  width: 400px;
-  height: 60px;
-  border-radius: 8px;
+  width: 25rem;
+  height: 3.75rem;
+  border-radius: 0.5rem;
   position: relative;
-  left: 810px;
-  bottom: 180px;
+  left: 50.625rem;
+  bottom: 11.25rem;
 }
 
 .div-3 {
   background-color: hsl(300, 24%, 96%);
-  width: 380px;
-  height: 60px;
-  border-radius: 8px;
+  width: 23.75rem;
+  height: 3.75rem;
+  border-radius: 0.5rem;
   position: relative;
-  left: 860px;
-  bottom: 180px;
+  left: 53.75rem;
+  bottom: 11.25rem;
 }
 
 .colton {
  background-color: hsl(300, 43%, 22%);
  position: relative;
- left: 100px;
- bottom: 100px;
- width: 380px;
- height: 220px;
- border-radius: 8px;
+ left: 6.25rem;
+ bottom: 6.25rem;
+ width: 23.75rem;
+ height: 13.75rem;
+ border-radius: 0.5rem;
 }
 
 .irene {
   background-color: hsl(300, 43%, 22%);
   position: relative;
-  left: 520px;
-  bottom: 310px;
-  width: 380px;
-  height: 220px;
-  border-radius: 8px;
+  left: 33.125rem;
+  bottom: 20rem;
+  width: 23.75rem;
+  height: 13.75rem;
+  border-radius: 0.5rem;
 }
 
 .anne {
   background-color: hsl(300, 43%, 22%);
   position: relative;
-  left: 940px;
-  bottom: 520px;
-  width: 380px;
-  height: 220px;
-  border-radius: 8px;
+  left: 59.375rem;
+  bottom: 33.125rem;
+  width: 23.75rem;
+  height: 13.75rem;
+  border-radius: 0.5rem;
 }
 
 .stars {
   position: relative;
-  margin-right: 20px;
+  margin-right: 1.25rem;
 }
 
 .stars-2 {
   position: relative;
-  margin-right: 20px;
+  margin-right: 1.25rem;
 }
 
 .stars-3 {
   position: relative;
-  margin-right: 20px;
+  margin-right: 1.25rem;
 }
 
 .img-1 {
   border-radius: 100%;
   position: relative;
-  left: 30px;
-  top: 30px;
+  left: 1.875rem;
+  top: 1.875rem;
   float: left;
-  width: 50px;
-  height: 50px;
+  width: 3.125rem;
+  height: 3.125rem;
 }
 
 .img-2 {
   border-radius: 100%;
   position: relative;
-  left: 30px;
-  top: 30px;
+  left: 1.875rem;
+  top: 1.875rem;
   float: left;
-  width: 50px;
-  height: 50px;
+  width: 3.125rem;
+  height: 3.125rem;
 }
 
 .img-3 {
   border-radius: 100%;
   position: relative;
-  left: 30px;
-  top: 30px;
+  left: 1.875rem;
+  top: 1.875rem;
   float: left;
-  width: 50px;
-  height: 50px;
+  width: 3.125rem;
+  height: 3.125rem;
 }
-
-/* Tablet Landscape */
-@media screen and (max-width: 1060px) {
-    #primary { width:67%; }
-    #secondary { width:30%; margin-left:3%;}
-}
-/* Tabled Portrait */
-@media screen and (max-width: 768px) {
-    #primary { width:100%; }
-    #secondary { width:100%; margin:0; border:none; }
-
-
-img { max-width: 100%; }
-
-@media (min-device-width:600px) {
-    img[data-src-600px] {
-        content: attr(data-src-600px, url);
-    }
-}
-@media (min-device-width:800px) {
-    img[data-src-800px] {
-        content: attr(data-src-800px, url);
-    }
-
-html { font-size:100%; }
-
-@media (min-width: 640px) { body {font-size:1rem;} }
-@media (min-width:960px) { body {font-size:1.2rem;} }
-@media (min-width:1100px) { body {font-size:1.5rem;} }
